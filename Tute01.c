@@ -8,12 +8,13 @@ int main() {
   
  int a,b, sum;
 
- printf("Enter a number: ");
- scanf("%d%d", &a, &b);
+ //printf("Enter a number: ");
+ //scanf("%d%d", &a, &b);
 
  sum= a+b;
 
- printf("The sum is %d",sum);  
+ //printf("The sum is %d",sum);  
+  printf("HELLO WORLD");
 
   return 0;
 }
