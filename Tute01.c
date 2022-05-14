@@ -14,8 +14,8 @@ int main() {
  sum= a+b;
 
  //printf("The sum is %d",sum);  
-  printf("HELLO WORLD");
-
+  printf("HELLO WORLD\n");
+   printf("Welcome to tutorials");
   return 0;
 }
 
